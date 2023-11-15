@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **torresagustin613@gmail.com**
 
-- ⚡ Fun fact **I love playing the guitar and practising martial arts**
+- ⚡ Fun fact **I love playing the guitar and practicing martial arts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
