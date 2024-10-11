@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on [Red Mascotera](https://github.com/redmascotera/redmascotera-front)
 
-- 🌱 I’m currently learning **Django, NextJS**
-
-- 💬 Ask me about **React, Python**
+- 🌱 I’m currently learning **C, NextJS**
 
 - 📫 How to reach me **torresagustin613@gmail.com**
 
