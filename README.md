@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on personal projects
 
-- 🌱 I’m currently learning **C, ReactJS, NextJS**
+- 🌱 I’m currently learning **C#, ReactJS, NextJS**
 
 - 📫 How to reach me **torresagustin613@gmail.com**
 
