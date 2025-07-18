@@ -1,6 +1,6 @@
-## Hi there! 👋
+## Hi there! I'm Agustin 👋
 
-I'm Agustin, a passionate software developer working primarily with JavaScript and Python. I love creating dynamic and efficient applications that enhance user experiences. Welcome to my GitHub profile!
+A passionate software developer working primarily with JavaScript and Python. I love creating dynamic and efficient applications that enhance user experiences. Welcome to my GitHub profile!
 
 ## Skills & Technologies
 
