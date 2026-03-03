@@ -4,4 +4,4 @@ A passionate software developer working primarily with JavaScript and Python. I 
 
 ## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,tailwind,nextjs,py,fastapi,nestjs,sqlite,postgres,docker,c,cs,bash,arduino&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,tailwind,nextjs,py,fastapi,sqlite,postgres,docker,c,cs,bash,arduino,go&perline=10)](https://skillicons.dev)
